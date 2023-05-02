@@ -18,7 +18,7 @@
 [![](https://visitcount.itsvg.in/api?id=canyesilyurt&icon=5&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buy me a whiskey&emoji=🥃&slug=janyesilyurt&button_colour=fed646&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://buymeacoffee.com/janyesilyurt) 
+<a rel="nofollow" target="_blank" href="https://www.buymeacoffee.com/janyesilyurt"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a whiskey&emoji=🥃&slug=janyesilyurt&button_colour=fed646&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
