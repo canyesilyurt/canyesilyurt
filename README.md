@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @canyesilyurt<br>👀 I’m interested in PHP & Node.JS & Swift<br>🌱 I’m currently learning Swift<br>📫 How to reach me hello@canyesilyurt.com
+👋 Hi, I’m @canyesilyurt<br>👀 I’m interested in PHP & Node.JS & Typescript<br>🌱 I’m currently learning Typescript<br>📫 How to reach me hello@canyesilyurt.com
 
 
 ## 🌐 Socials:
