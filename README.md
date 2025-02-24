@@ -1,7 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @canyesilyurt<br>👀 I’m interested in PHP & Node.JS & Typescript<br>🌱 I’m currently learning AI 🤪<br>📫 How to reach me hello@canyesilyurt.com
-
-[![cy4udev github](https://www.cy4u.dev/assets/images/logo/logo-dark.png)](https://github.com/cy4udev) 
+👋 Hi, I’m @canyesilyurt<br>👀 I’m interested in: PHP & Node.JS & Typescript<br>🌱 I’m currently learning: AI 🤪<br>📫 How to reach me: hello@canyesilyurt.com
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Can%20Yesilyurt-%23000.svg?style=flat&logoColor=white)](https://canyesilyurt.com) 
