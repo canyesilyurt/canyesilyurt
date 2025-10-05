@@ -14,8 +14,6 @@
 ![](https://komarev.com/ghpvc/?username=canyesilyurt&color=grey)
 
   ## 💰 You can help me by Donating
-<a rel="nofollow" target="_blank" href="https://www.buymeacoffee.com/janyesilyurt"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a whiskey&emoji=🥃&slug=janyesilyurt&button_colour=fed646&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
 [![Buy Me a Whiskey](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20whiskey&emoji=🥃&slug=janyesilyurt&button_colour=fed646&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/janyesilyurt)
 
 
