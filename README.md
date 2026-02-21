@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @canyesilyurt<br>👀 I’m interested in: PHP & Node.JS & Typescript<br>🌱 I’m currently learning: AI 🤪<br>📫 How to reach me: hello@canyesilyurt.com
+👋 Hi, I’m @canyesilyurt<br>👀 I’m interested in: PHP & Node.JS & Typescript & C++<br>🌱 I’m currently learning: AI 🤪<br>📫 How to reach me: hello@canyesilyurt.com
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Can%20Yesilyurt-%23000.svg?logo=cypress&style=flat&logoColor=white)](https://canyesilyurt.com) 
